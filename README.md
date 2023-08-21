@@ -42,7 +42,7 @@ python main.py
 
 可以看到
 
-![image-20230821190551191](C:\Users\dglr\AppData\Roaming\Typora\typora-user-images\image-20230821190551191.png)
+![image](https://github.com/dglr/FlaskTest/blob/master/image-20230821190647393.png)
 
 接下来运行两个单元测试
 
@@ -51,6 +51,6 @@ python add_user_test.py
 python unit_test.py
 ```
 
-![image-20230821190647393](C:\Users\dglr\AppData\Roaming\Typora\typora-user-images\image-20230821190647393.png)
+![image](https://github.com/dglr/FlaskTest/blob/master/image-20230821190647393.png)
 
-![image-20230821190700380](C:\Users\dglr\AppData\Roaming\Typora\typora-user-images\image-20230821190700380.png)
+![image](https://github.com/dglr/FlaskTest/blob/master/image-20230821190700380.png)
