@@ -42,7 +42,7 @@ python main.py
 
 可以看到
 
-![image](https://github.com/dglr/FlaskTest/blob/master/image-20230821190647393.png)
+![image](https://github.com/dglr/FlaskTest/blob/master/image-20230821190551191.png)
 
 接下来运行两个单元测试
 
